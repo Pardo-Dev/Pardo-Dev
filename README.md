@@ -1,30 +1,14 @@
-<header align="center" width="300">
-    <img src="https://acortar.link/Qzyqt0" width=200>
-    <h3>¡Hi 👋! Soy PardoDev 👾</h3>
-</header>
-<div class="desc">
-    <p>
-    Estudiante de <b>Ingenieria en informática</b> en <b>Duoc UC</b>.<br />
-    </p>
-</div>
-
-![](https://komarev.com/ghpvc/?username=PardoDev78&color=blueviolet&style=for-the-badge)
-
-### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PardoDev78&show_icons=true&theme=radical)
-
-### Programming languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PardoDev78&theme=radical)
+ ![](https://komarev.com/ghpvc/?username=PardoDev78&color=blueviolet&style=for-the-badge) 
+ ## ¡Hi 👋! Soy PardoDev 👾
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- Estilos-->
-<style>
-    header{
-        text-align:center;
-    }
-    header img{
-        border-radius:50%;
-        border : solid 3px black;
-        box-shadow: black 2px 2px 5px
-    }
-</style>
+🔵 Ing. informática - Duoc UC
+
+🔵 Programador Back-end
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PardoDev78&theme=radical) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PardoDev78&show_icons=true&theme=radical) 
