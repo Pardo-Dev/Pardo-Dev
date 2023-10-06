@@ -6,8 +6,12 @@
 
 🔵 Programmer Back-end
 
-### LinkedIn
-[Click Here!](acortar.link/E0FWKQ)
+### Social Networks 👾
+🔵 [***LINKEDIN***](https://www.linkedin.com/in/carlos-pardo-belmar-507860243/)
+
+🔵 [***DISCORD SERVER***](https://discord.gg/aP2QZk25AY)
+
+🔵 [***INSTAGRAM***](https://www.instagram.com/_p4rd0.c_/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PardoDev78&show_icons=true&theme=highcontrast) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PardoDev78&theme=highcontrast) 
