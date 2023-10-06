@@ -1,16 +1,30 @@
-### Hi there 👋
+<header>
+    <img src="https://acortar.link/Qzyqt0" width=200>
+    <h3>¡Hi 👋! Soy PardoDev 👾</h3>
+</header>
+<div class="desc">
+    <p>
+    Estudiante de <b>Ingenieria en informática</b> en <b>Duoc UC</b>.<br />
+    </p>
+</div>
 
-<!--
-**PardoDev78/PardoDev78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=PardoDev78&color=blueviolet&style=for-the-badge)
 
-Here are some ideas to get you started:
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PardoDev78&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PardoDev78&theme=radical)
+
+
+<!-- Estilos-->
+<style>
+    header{
+        text-align:center;
+    }
+    header img{
+        border-radius:50%;
+        border : solid 3px black;
+        box-shadow: black 2px 2px 5px
+    }
+</style>
