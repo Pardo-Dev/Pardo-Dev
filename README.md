@@ -1,6 +1,6 @@
 ## ¡Hi 👋! I am PardoDev 👾
 
-![](https://komarev.com/ghpvc/?username=PardoDev78&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Pardo-Dev&color=blueviolet&style=for-the-badge)
 
 🔵 Computer Engineering Student - DUOC UC
 
@@ -13,5 +13,5 @@
 
 🔵 [***INSTAGRAM***](https://www.instagram.com/_p4rd0.c_/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PardoDev78&show_icons=true&theme=highcontrast) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PardoDev78&theme=highcontrast) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pardo-Dev&show_icons=true&theme=highcontrast) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pardo-Dev&theme=highcontrast) 
