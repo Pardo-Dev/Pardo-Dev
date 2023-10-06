@@ -1,4 +1,4 @@
-<header>
+<header align="center" width="300">
     <img src="https://acortar.link/Qzyqt0" width=200>
     <h3>¡Hi 👋! Soy PardoDev 👾</h3>
 </header>
